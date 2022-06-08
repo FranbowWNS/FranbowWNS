@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranbowWNS
 - 👀 I’m interested in Anime, LN's, Manga, Japaniese culture and foreign languages.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning FrontEndDevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me GMail: frandewwwns@gmail.com
 
