@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FranbowWNS
-- 👀 I’m interested in Anime, LN's, Manga, Japaniese culture and foreign languages.
-- 🌱 I’m currently learning FrontEndDevelopment
+- 👀 I’m interested in Anime, LN's, Manga, Eastern culture and foreign languages.
+- 🌱 I’m currently learning FrontEnd thingies, I hate studying cause it's boring, but I'm kinda pushing trough it.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me GMail: frandewwwns@gmail.com
+- 📫 How to reach me GMail: franbow.work@gmail.com
 
 <!---
 FranbowWNS/FranbowWNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
